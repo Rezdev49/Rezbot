@@ -1,0 +1,5 @@
+{
+  "status": false,
+  "message": "Internal Server Error",
+  "error": "can't get bypass result from redis"
+}
